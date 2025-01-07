@@ -1,0 +1,4 @@
+[submodule "curl"]
+	path = curl
+	url = ../../curl/curl
+	branch = master
